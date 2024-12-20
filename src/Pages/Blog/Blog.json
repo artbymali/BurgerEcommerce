@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "blogImg": "/Farmerr.jpg",
+        "heading": "The Health Benefits of Organic Food",
+        "outerdiscruption": "This blog explores the growing trend of organic food and its impact on health. Learn how organic farming avoids synthetic pesticides and fertilizers, leading to healthier and more nutritious produce. Discover why many are switching to organic food for its environmental benefits and reduced exposure to harmful chemicals."
+    },
+    {
+        "id": 2,
+        "blogImg": "/BreakFast.jpg",
+        "heading": "Why Breakfast is the Most Important Meal of the Day",
+        "outerdiscruption": "This blog explains why breakfast plays a vital role in setting the tone for your day. Discover how a nutritious morning meal can boost energy levels, improve focus, and regulate metabolism. Learn tips for creating quick, healthy breakfasts that fuel your body and mind for the day ahead."
+    },
+    {
+        "id": 3,
+        "blogImg": "/PrefectBurger.jpg",
+        "heading": "The Art of Crafting the Perfect Burger",
+        "outerdiscruption": "Discover the art of pairing wine with food in this blog. Learn how different wines enhance the flavors of various dishes, and get tips on pairing red, white, and sparkling wines with meats, cheeses, and desserts. Elevate your dining experience by mastering these pairing techniques."
+    },
+    {
+        "id": 4,
+        "blogImg": "/StreetFood.jpg",
+        "heading": "Exploring the Global Street Food Scene",
+        "outerdiscruption": "This blog takes you on a culinary journey around the world, exploring the vibrant and diverse world of street food. From tacos in Mexico to banh mi in Vietnam, discover the flavors and cultures behind some of the most iconic street foods enjoyed by locals and travelers alike."
+    },
+    {
+        "id": 5,
+        "blogImg": "/PlantBurger.jpg",
+        "heading": "The Rise of Plant-Based Burgers: A Tasty Alternative",
+        "outerdiscruption": "This blog explores the rise of plant-based burgers and their growing popularity among food lovers and health-conscious consumers. Discover the benefits of these meatless alternatives and how they provide a sustainable, delicious option for those looking to reduce their meat consumption without sacrificing flavor."
+    }
+]

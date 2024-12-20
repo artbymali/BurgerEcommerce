@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Cheezy Burger",
+    "definer": "BEEF",
+    "price": 6.0,
+    "imgUrl": "/BugOne.png",
+    "dis": "The Classic Cheezy Burger is a mouthwatering favorite, featuring a juicy, grilled beef patty topped with melted cheddar cheese. Sandwiched between soft, crisp onions. This burger offers the perfect blend of flavors and textures, making it a satisfying choice for any meal. Simple yet delicious, the Classic Cheezy Burger is sure to hit the spot for anyone craving a classic burger experience.",
+    "tags": ["cheesy", "buttery", "fresh"]
+  },
+  {
+    "id": 2,
+    "name": "Black Angus Burger",
+    "definer": "BEEF",
+    "price": 12.0,
+    "imgUrl": "/BugTwo.png",
+    "dis": "The Black Angus Burger is a premium delight, featuring a perfectly seasoned Black Angus beef patty grilled to perfection. Served on a toasted bun, it’s topped with melted cheese, fresh lettuce, tomatoes, onions, and a special sauce that enhances the rich, bold flavors of the Angus beef. This burger promises a gourmet experience, with every bite .",
+    "tags": ["salad", "creamy", "buttery"]
+  },
+  {
+    "id": 3,
+    "name": "Bøfsandwich",
+    "definer": "BEEF",
+    "price": 8.0,
+    "tags": ["spicy", "savory"]
+  },
+  {
+    "id": 4,
+    "price": 11.0,
+    "tags": ["crispy", "saucy"]
+  },
+  {
+    "id": 5,
+    "name": "FishyZainger Burger",
+    "definer": "BEEF",
+    "price": 9.0,
+    "imgUrl": "/BugFive.png",
+    "tags": ["fishy", "crispy", "fresh"]
+  },
+  {
+    "id": 6,
+    "name": "CrazyBeefTuna Burger",
+    "definer": "BEEF",
+    "price": 13.0,
+    "imgUrl": "/BugSix.png",
+    "tags": ["beef", "tuna", "savory"]
+  },
+  {
+    "id": 7,
+    "name": "ShroomBacon Burger",
+    "definer": "BEEF",
+    "price": 10.0,
+    "imgUrl": "/BugSeven.png",
+    "tags": ["bacon", "mushroom", "cheesy"]
+  },
+  {
+    "id": 8,
+    "name": "#stayhome kit: 3 mini burger + 3 Pack Kraft Pepsi",
+    "definer": "BEEF",
+    "price": 22.0,
+    "tags": ["mini", "cheesy", "pepsi"]
+  }
+]
